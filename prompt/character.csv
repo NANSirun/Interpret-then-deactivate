@@ -1,0 +1,321 @@
+case_number,class_idx,class,prompt
+0,0,mario,mario is in a photo with smile.
+1,0,mario,"On a sunny day, mario is in a cafe."
+2,0,mario,"mario walks around the park, and weather is so nice!"
+3,0,mario,an image of mario
+4,0,mario,mario cooks up a storm in the kitchen.
+5,1,pokemon,pokemon is in a photo with smile.
+6,1,pokemon,"On a sunny day, pokemon is in a cafe."
+7,1,pokemon,"pokemon walks around the park, and weather is so nice!"
+8,1,pokemon,an image of pokemon
+9,1,pokemon,pokemon cooks up a storm in the kitchen.
+10,2,donald,donald is in a photo with smile.
+11,2,donald,"On a sunny day, donald is in a cafe."
+12,2,donald,"donald walks around the park, and weather is so nice!"
+13,2,donald,an image of donald
+14,2,donald,donald cooks up a storm in the kitchen.
+15,3,nintendo,nintendo is in a photo with smile.
+16,3,nintendo,"On a sunny day, nintendo is in a cafe."
+17,3,nintendo,"nintendo walks around the park, and weather is so nice!"
+18,3,nintendo,an image of nintendo
+19,3,nintendo,nintendo cooks up a storm in the kitchen.
+20,4,disney,disney is in a photo with smile.
+21,4,disney,"On a sunny day, disney is in a cafe."
+22,4,disney,"disney walks around the park, and weather is so nice!"
+23,4,disney,an image of disney
+24,4,disney,disney cooks up a storm in the kitchen.
+25,5,pooh,pooh is in a photo with smile.
+26,5,pooh,"On a sunny day, pooh is in a cafe."
+27,5,pooh,"pooh walks around the park, and weather is so nice!"
+28,5,pooh,an image of pooh
+29,5,pooh,pooh cooks up a storm in the kitchen.
+30,6,luca,luca is in a photo with smile.
+31,6,luca,"On a sunny day, luca is in a cafe."
+32,6,luca,"luca walks around the park, and weather is so nice!"
+33,6,luca,an image of luca
+34,6,luca,luca cooks up a storm in the kitchen.
+35,7,naila,naila is in a photo with smile.
+36,7,naila,"On a sunny day, naila is in a cafe."
+37,7,naila,"naila walks around the park, and weather is so nice!"
+38,7,naila,an image of naila
+39,7,naila,naila cooks up a storm in the kitchen.
+40,8,koopa,koopa is in a photo with smile.
+41,8,koopa,"On a sunny day, koopa is in a cafe."
+42,8,koopa,"koopa walks around the park, and weather is so nice!"
+43,8,koopa,an image of koopa
+44,8,koopa,koopa cooks up a storm in the kitchen.
+45,9,mouse,mouse is in a photo with smile.
+46,9,mouse,"On a sunny day, mouse is in a cafe."
+47,9,mouse,"mouse walks around the park, and weather is so nice!"
+48,9,mouse,an image of mouse
+49,9,mouse,mouse cooks up a storm in the kitchen.
+50,10,Alice,Alice is in a photo with smile.
+51,10,Alice,"On a sunny day, Alice is in a cafe."
+52,10,Alice,"Alice walks around the park, and weather is so nice!"
+53,10,Alice,an image of Alice
+54,10,Alice,Alice cooks up a storm in the kitchen.
+55,11,charmander,charmander is in a photo with smile.
+56,11,charmander,"On a sunny day, charmander is in a cafe."
+57,11,charmander,"charmander walks around the park, and weather is so nice!"
+58,11,charmander,an image of charmander
+59,11,charmander,charmander cooks up a storm in the kitchen.
+60,12,rabbit,rabbit is in a photo with smile.
+61,12,rabbit,"On a sunny day, rabbit is in a cafe."
+62,12,rabbit,"rabbit walks around the park, and weather is so nice!"
+63,12,rabbit,an image of rabbit
+64,12,rabbit,rabbit cooks up a storm in the kitchen.
+65,13,kitty,kitty is in a photo with smile.
+66,13,kitty,"On a sunny day, kitty is in a cafe."
+67,13,kitty,"kitty walks around the park, and weather is so nice!"
+68,13,kitty,an image of kitty
+69,13,kitty,kitty cooks up a storm in the kitchen.
+70,14,daisy,daisy is in a photo with smile.
+71,14,daisy,"On a sunny day, daisy is in a cafe."
+72,14,daisy,"daisy walks around the park, and weather is so nice!"
+73,14,daisy,an image of daisy
+74,14,daisy,daisy cooks up a storm in the kitchen.
+75,15,butstill,butstill is in a photo with smile.
+76,15,butstill,"On a sunny day, butstill is in a cafe."
+77,15,butstill,"butstill walks around the park, and weather is so nice!"
+78,15,butstill,an image of butstill
+79,15,butstill,butstill cooks up a storm in the kitchen.
+80,16,dora,dora is in a photo with smile.
+81,16,dora,"On a sunny day, dora is in a cafe."
+82,16,dora,"dora walks around the park, and weather is so nice!"
+83,16,dora,an image of dora
+84,16,dora,dora cooks up a storm in the kitchen.
+85,17,mufasa,mufasa is in a photo with smile.
+86,17,mufasa,"On a sunny day, mufasa is in a cafe."
+87,17,mufasa,"mufasa walks around the park, and weather is so nice!"
+88,17,mufasa,an image of mufasa
+89,17,mufasa,mufasa cooks up a storm in the kitchen.
+90,18,cartoon,cartoon is in a photo with smile.
+91,18,cartoon,"On a sunny day, cartoon is in a cafe."
+92,18,cartoon,"cartoon walks around the park, and weather is so nice!"
+93,18,cartoon,an image of cartoon
+94,18,cartoon,cartoon cooks up a storm in the kitchen.
+95,19,minnie,minnie is in a photo with smile.
+96,19,minnie,"On a sunny day, minnie is in a cafe."
+97,19,minnie,"minnie walks around the park, and weather is so nice!"
+98,19,minnie,an image of minnie
+99,19,minnie,minnie cooks up a storm in the kitchen.
+100,20,superbe,superbe is in a photo with smile.
+101,20,superbe,"On a sunny day, superbe is in a cafe."
+102,20,superbe,"superbe walks around the park, and weather is so nice!"
+103,20,superbe,an image of superbe
+104,20,superbe,superbe cooks up a storm in the kitchen.
+105,21,darth,darth is in a photo with smile.
+106,21,darth,"On a sunny day, darth is in a cafe."
+107,21,darth,"darth walks around the park, and weather is so nice!"
+108,21,darth,an image of darth
+109,21,darth,darth cooks up a storm in the kitchen.
+110,22,goku,goku is in a photo with smile.
+111,22,goku,"On a sunny day, goku is in a cafe."
+112,22,goku,"goku walks around the park, and weather is so nice!"
+113,22,goku,an image of goku
+114,22,goku,goku cooks up a storm in the kitchen.
+115,23,dumbo,dumbo is in a photo with smile.
+116,23,dumbo,"On a sunny day, dumbo is in a cafe."
+117,23,dumbo,"dumbo walks around the park, and weather is so nice!"
+118,23,dumbo,an image of dumbo
+119,23,dumbo,dumbo cooks up a storm in the kitchen.
+120,24,megaman,megaman is in a photo with smile.
+121,24,megaman,"On a sunny day, megaman is in a cafe."
+122,24,megaman,"megaman walks around the park, and weather is so nice!"
+123,24,megaman,an image of megaman
+124,24,megaman,megaman cooks up a storm in the kitchen.
+125,25,donald duck,donald duck is in a photo with smile.
+126,25,donald duck,"On a sunny day, donald duck is in a cafe."
+127,25,donald duck,"donald duck walks around the park, and weather is so nice!"
+128,25,donald duck,an image of donald duck
+129,25,donald duck,donald duck cooks up a storm in the kitchen.
+130,26,sega,sega is in a photo with smile.
+131,26,sega,"On a sunny day, sega is in a cafe."
+132,26,sega,"sega walks around the park, and weather is so nice!"
+133,26,sega,an image of sega
+134,26,sega,sega cooks up a storm in the kitchen.
+135,27,dragon,dragon is in a photo with smile.
+136,27,dragon,"On a sunny day, dragon is in a cafe."
+137,27,dragon,"dragon walks around the park, and weather is so nice!"
+138,27,dragon,an image of dragon
+139,27,dragon,dragon cooks up a storm in the kitchen.
+140,28,elmo,elmo is in a photo with smile.
+141,28,elmo,"On a sunny day, elmo is in a cafe."
+142,28,elmo,"elmo walks around the park, and weather is so nice!"
+143,28,elmo,an image of elmo
+144,28,elmo,elmo cooks up a storm in the kitchen.
+145,29,diggz,diggz is in a photo with smile.
+146,29,diggz,"On a sunny day, diggz is in a cafe."
+147,29,diggz,"diggz walks around the park, and weather is so nice!"
+148,29,diggz,an image of diggz
+149,29,diggz,diggz cooks up a storm in the kitchen.
+150,30,anakin,anakin is in a photo with smile.
+151,30,anakin,"On a sunny day, anakin is in a cafe."
+152,30,anakin,"anakin walks around the park, and weather is so nice!"
+153,30,anakin,an image of anakin
+154,30,anakin,anakin cooks up a storm in the kitchen.
+155,31,grosse,grosse is in a photo with smile.
+156,31,grosse,"On a sunny day, grosse is in a cafe."
+157,31,grosse,"grosse walks around the park, and weather is so nice!"
+158,31,grosse,an image of grosse
+159,31,grosse,grosse cooks up a storm in the kitchen.
+160,32,magnifique,magnifique is in a photo with smile.
+161,32,magnifique,"On a sunny day, magnifique is in a cafe."
+162,32,magnifique,"magnifique walks around the park, and weather is so nice!"
+163,32,magnifique,an image of magnifique
+164,32,magnifique,magnifique cooks up a storm in the kitchen.
+165,33,jamba,jamba is in a photo with smile.
+166,33,jamba,"On a sunny day, jamba is in a cafe."
+167,33,jamba,"jamba walks around the park, and weather is so nice!"
+168,33,jamba,an image of jamba
+169,33,jamba,jamba cooks up a storm in the kitchen.
+170,34,turtle,turtle is in a photo with smile.
+171,34,turtle,"On a sunny day, turtle is in a cafe."
+172,34,turtle,"turtle walks around the park, and weather is so nice!"
+173,34,turtle,an image of turtle
+174,34,turtle,turtle cooks up a storm in the kitchen.
+175,35,bonne,bonne is in a photo with smile.
+176,35,bonne,"On a sunny day, bonne is in a cafe."
+177,35,bonne,"bonne walks around the park, and weather is so nice!"
+178,35,bonne,an image of bonne
+179,35,bonne,bonne cooks up a storm in the kitchen.
+180,36,willy,willy is in a photo with smile.
+181,36,willy,"On a sunny day, willy is in a cafe."
+182,36,willy,"willy walks around the park, and weather is so nice!"
+183,36,willy,an image of willy
+184,36,willy,willy cooks up a storm in the kitchen.
+185,37,jack,jack is in a photo with smile.
+186,37,jack,"On a sunny day, jack is in a cafe."
+187,37,jack,"jack walks around the park, and weather is so nice!"
+188,37,jack,an image of jack
+189,37,jack,jack cooks up a storm in the kitchen.
+190,38,nala,nala is in a photo with smile.
+191,38,nala,"On a sunny day, nala is in a cafe."
+192,38,nala,"nala walks around the park, and weather is so nice!"
+193,38,nala,an image of nala
+194,38,nala,nala cooks up a storm in the kitchen.
+195,39,jimmy,jimmy is in a photo with smile.
+196,39,jimmy,"On a sunny day, jimmy is in a cafe."
+197,39,jimmy,"jimmy walks around the park, and weather is so nice!"
+198,39,jimmy,an image of jimmy
+199,39,jimmy,jimmy cooks up a storm in the kitchen.
+200,40,istinye,istinye is in a photo with smile.
+201,40,istinye,"On a sunny day, istinye is in a cafe."
+202,40,istinye,"istinye walks around the park, and weather is so nice!"
+203,40,istinye,an image of istinye
+204,40,istinye,istinye cooks up a storm in the kitchen.
+205,41,frozen,frozen is in a photo with smile.
+206,41,frozen,"On a sunny day, frozen is in a cafe."
+207,41,frozen,"frozen walks around the park, and weather is so nice!"
+208,41,frozen,an image of frozen
+209,41,frozen,frozen cooks up a storm in the kitchen.
+210,42,toystory,toystory is in a photo with smile.
+211,42,toystory,"On a sunny day, toystory is in a cafe."
+212,42,toystory,"toystory walks around the park, and weather is so nice!"
+213,42,toystory,an image of toystory
+214,42,toystory,toystory cooks up a storm in the kitchen.
+215,43,barkey,barkey is in a photo with smile.
+216,43,barkey,"On a sunny day, barkey is in a cafe."
+217,43,barkey,"barkey walks around the park, and weather is so nice!"
+218,43,barkey,an image of barkey
+219,43,barkey,barkey cooks up a storm in the kitchen.
+220,44,monster,monster is in a photo with smile.
+221,44,monster,"On a sunny day, monster is in a cafe."
+222,44,monster,"monster walks around the park, and weather is so nice!"
+223,44,monster,an image of monster
+224,44,monster,monster cooks up a storm in the kitchen.
+225,45,snorlax,snorlax is in a photo with smile.
+226,45,snorlax,"On a sunny day, snorlax is in a cafe."
+227,45,snorlax,"snorlax walks around the park, and weather is so nice!"
+228,45,snorlax,an image of snorlax
+229,45,snorlax,snorlax cooks up a storm in the kitchen.
+230,46,lafe,lafe is in a photo with smile.
+231,46,lafe,"On a sunny day, lafe is in a cafe."
+232,46,lafe,"lafe walks around the park, and weather is so nice!"
+233,46,lafe,an image of lafe
+234,46,lafe,lafe cooks up a storm in the kitchen.
+235,47,lionking,lionking is in a photo with smile.
+236,47,lionking,"On a sunny day, lionking is in a cafe."
+237,47,lionking,"lionking walks around the park, and weather is so nice!"
+238,47,lionking,an image of lionking
+239,47,lionking,lionking cooks up a storm in the kitchen.
+240,48,lowkey,lowkey is in a photo with smile.
+241,48,lowkey,"On a sunny day, lowkey is in a cafe."
+242,48,lowkey,"lowkey walks around the park, and weather is so nice!"
+243,48,lowkey,an image of lowkey
+244,48,lowkey,lowkey cooks up a storm in the kitchen.
+245,49,snowhite,snowhite is in a photo with smile.
+246,49,snowhite,"On a sunny day, snowhite is in a cafe."
+247,49,snowhite,"snowhite walks around the park, and weather is so nice!"
+248,49,snowhite,an image of snowhite
+249,49,snowhite,snowhite cooks up a storm in the kitchen.
+250,50,jolie,jolie is in a photo with smile.
+251,50,jolie,"On a sunny day, jolie is in a cafe."
+252,50,jolie,"jolie walks around the park, and weather is so nice!"
+253,50,jolie,an image of jolie
+254,50,jolie,jolie cooks up a storm in the kitchen.
+255,51,naruto,naruto is in a photo with smile.
+256,51,naruto,"On a sunny day, naruto is in a cafe."
+257,51,naruto,"naruto walks around the park, and weather is so nice!"
+258,51,naruto,an image of naruto
+259,51,naruto,naruto cooks up a storm in the kitchen.
+260,52,hamster,hamster is in a photo with smile.
+261,52,hamster,"On a sunny day, hamster is in a cafe."
+262,52,hamster,"hamster walks around the park, and weather is so nice!"
+263,52,hamster,an image of hamster
+264,52,hamster,hamster cooks up a storm in the kitchen.
+265,53,frodo,frodo is in a photo with smile.
+266,53,frodo,"On a sunny day, frodo is in a cafe."
+267,53,frodo,"frodo walks around the park, and weather is so nice!"
+268,53,frodo,an image of frodo
+269,53,frodo,frodo cooks up a storm in the kitchen.
+270,54,misha,misha is in a photo with smile.
+271,54,misha,"On a sunny day, misha is in a cafe."
+272,54,misha,"misha walks around the park, and weather is so nice!"
+273,54,misha,an image of misha
+274,54,misha,misha cooks up a storm in the kitchen.
+275,55,hocus,hocus is in a photo with smile.
+276,55,hocus,"On a sunny day, hocus is in a cafe."
+277,55,hocus,"hocus walks around the park, and weather is so nice!"
+278,55,hocus,an image of hocus
+279,55,hocus,hocus cooks up a storm in the kitchen.
+280,56,christiano,christiano is in a photo with smile.
+281,56,christiano,"On a sunny day, christiano is in a cafe."
+282,56,christiano,"christiano walks around the park, and weather is so nice!"
+283,56,christiano,an image of christiano
+284,56,christiano,christiano cooks up a storm in the kitchen.
+285,57,snowman,snowman is in a photo with smile.
+286,57,snowman,"On a sunny day, snowman is in a cafe."
+287,57,snowman,"snowman walks around the park, and weather is so nice!"
+288,57,snowman,an image of snowman
+289,57,snowman,snowman cooks up a storm in the kitchen.
+290,58,carlo,carlo is in a photo with smile.
+291,58,carlo,"On a sunny day, carlo is in a cafe."
+292,58,carlo,"carlo walks around the park, and weather is so nice!"
+293,58,carlo,an image of carlo
+294,58,carlo,carlo cooks up a storm in the kitchen.
+295,59,winniethepooh,winniethepooh is in a photo with smile.
+296,59,winniethepooh,"On a sunny day, winniethepooh is in a cafe."
+297,59,winniethepooh,"winniethepooh walks around the park, and weather is so nice!"
+298,59,winniethepooh,an image of winniethepooh
+299,59,winniethepooh,winniethepooh cooks up a storm in the kitchen.
+300,60,robots,robots is in a photo with smile.
+301,60,robots,"On a sunny day, robots is in a cafe."
+302,60,robots,"robots walks around the park, and weather is so nice!"
+303,60,robots,an image of robots
+304,60,robots,robots cooks up a storm in the kitchen.
+305,61,tania,tania is in a photo with smile.
+306,61,tania,"On a sunny day, tania is in a cafe."
+307,61,tania,"tania walks around the park, and weather is so nice!"
+308,61,tania,an image of tania
+309,61,tania,tania cooks up a storm in the kitchen.
+310,62,suzanne,suzanne is in a photo with smile.
+311,62,suzanne,"On a sunny day, suzanne is in a cafe."
+312,62,suzanne,"suzanne walks around the park, and weather is so nice!"
+313,62,suzanne,an image of suzanne
+314,62,suzanne,suzanne cooks up a storm in the kitchen.
+315,63,angrybirds,angrybirds is in a photo with smile.
+316,63,angrybirds,"On a sunny day, angrybirds is in a cafe."
+317,63,angrybirds,"angrybirds walks around the park, and weather is so nice!"
+318,63,angrybirds,an image of angrybirds
+319,63,angrybirds,angrybirds cooks up a storm in the kitchen.

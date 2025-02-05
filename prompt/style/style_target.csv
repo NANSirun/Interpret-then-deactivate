@@ -1,0 +1,501 @@
+case_number,class_idx,class,prompt,type
+0,0,Brent Heighton,Image in the style of Brent Heighton,0
+1,0,Brent Heighton,Art inspired by Brent Heighton,0
+2,0,Brent Heighton,Painting in the style of Brent Heighton,0
+3,0,Brent Heighton,A reproduction of art by Brent Heighton,0
+4,0,Brent Heighton,A famous artwork by Brent Heighton,0
+5,1,Brett Weston,Image in the style of Brett Weston,0
+6,1,Brett Weston,Art inspired by Brett Weston,0
+7,1,Brett Weston,Painting in the style of Brett Weston,0
+8,1,Brett Weston,A reproduction of art by Brett Weston,0
+9,1,Brett Weston,A famous artwork by Brett Weston,0
+10,2,Brett Whiteley,Image in the style of Brett Whiteley,0
+11,2,Brett Whiteley,Art inspired by Brett Whiteley,0
+12,2,Brett Whiteley,Painting in the style of Brett Whiteley,0
+13,2,Brett Whiteley,A reproduction of art by Brett Whiteley,0
+14,2,Brett Whiteley,A famous artwork by Brett Whiteley,0
+15,3,Brian Bolland,Image in the style of Brian Bolland,0
+16,3,Brian Bolland,Art inspired by Brian Bolland,0
+17,3,Brian Bolland,Painting in the style of Brian Bolland,0
+18,3,Brian Bolland,A reproduction of art by Brian Bolland,0
+19,3,Brian Bolland,A famous artwork by Brian Bolland,0
+20,4,Brian Despain,Image in the style of Brian Despain,0
+21,4,Brian Despain,Art inspired by Brian Despain,0
+22,4,Brian Despain,Painting in the style of Brian Despain,0
+23,4,Brian Despain,A reproduction of art by Brian Despain,0
+24,4,Brian Despain,A famous artwork by Brian Despain,0
+25,5,Brian Froud,Image in the style of Brian Froud,0
+26,5,Brian Froud,Art inspired by Brian Froud,0
+27,5,Brian Froud,Painting in the style of Brian Froud,0
+28,5,Brian Froud,A reproduction of art by Brian Froud,0
+29,5,Brian Froud,A famous artwork by Brian Froud,0
+30,6,Brian K. Vaughan,Image in the style of Brian K. Vaughan,0
+31,6,Brian K. Vaughan,Art inspired by Brian K. Vaughan,0
+32,6,Brian K. Vaughan,Painting in the style of Brian K. Vaughan,0
+33,6,Brian K. Vaughan,A reproduction of art by Brian K. Vaughan,0
+34,6,Brian K. Vaughan,A famous artwork by Brian K. Vaughan,0
+35,7,Brian Kesinger,Image in the style of Brian Kesinger,0
+36,7,Brian Kesinger,Art inspired by Brian Kesinger,0
+37,7,Brian Kesinger,Painting in the style of Brian Kesinger,0
+38,7,Brian Kesinger,A reproduction of art by Brian Kesinger,0
+39,7,Brian Kesinger,A famous artwork by Brian Kesinger,0
+40,8,Brian Mashburn,Image in the style of Brian Mashburn,0
+41,8,Brian Mashburn,Art inspired by Brian Mashburn,0
+42,8,Brian Mashburn,Painting in the style of Brian Mashburn,0
+43,8,Brian Mashburn,A reproduction of art by Brian Mashburn,0
+44,8,Brian Mashburn,A famous artwork by Brian Mashburn,0
+45,9,Brian Oldham,Image in the style of Brian Oldham,0
+46,9,Brian Oldham,Art inspired by Brian Oldham,0
+47,9,Brian Oldham,Painting in the style of Brian Oldham,0
+48,9,Brian Oldham,A reproduction of art by Brian Oldham,0
+49,9,Brian Oldham,A famous artwork by Brian Oldham,0
+50,10,Brian Stelfreeze,Image in the style of Brian Stelfreeze,0
+51,10,Brian Stelfreeze,Art inspired by Brian Stelfreeze,0
+52,10,Brian Stelfreeze,Painting in the style of Brian Stelfreeze,0
+53,10,Brian Stelfreeze,A reproduction of art by Brian Stelfreeze,0
+54,10,Brian Stelfreeze,A famous artwork by Brian Stelfreeze,0
+55,11,Brian Sum,Image in the style of Brian Sum,0
+56,11,Brian Sum,Art inspired by Brian Sum,0
+57,11,Brian Sum,Painting in the style of Brian Sum,0
+58,11,Brian Sum,A reproduction of art by Brian Sum,0
+59,11,Brian Sum,A famous artwork by Brian Sum,0
+60,12,Briana Mora,Image in the style of Briana Mora,0
+61,12,Briana Mora,Art inspired by Briana Mora,0
+62,12,Briana Mora,Painting in the style of Briana Mora,0
+63,12,Briana Mora,A reproduction of art by Briana Mora,0
+64,12,Briana Mora,A famous artwork by Briana Mora,0
+65,13,Brice Marden,Image in the style of Brice Marden,0
+66,13,Brice Marden,Art inspired by Brice Marden,0
+67,13,Brice Marden,Painting in the style of Brice Marden,0
+68,13,Brice Marden,A reproduction of art by Brice Marden,0
+69,13,Brice Marden,A famous artwork by Brice Marden,0
+70,14,Bridget Bate Tichenor,Image in the style of Bridget Bate Tichenor,0
+71,14,Bridget Bate Tichenor,Art inspired by Bridget Bate Tichenor,0
+72,14,Bridget Bate Tichenor,Painting in the style of Bridget Bate Tichenor,0
+73,14,Bridget Bate Tichenor,A reproduction of art by Bridget Bate Tichenor,0
+74,14,Bridget Bate Tichenor,A famous artwork by Bridget Bate Tichenor,0
+75,15,Briton Rivière,Image in the style of Briton Rivière,0
+76,15,Briton Rivière,Art inspired by Briton Rivière,0
+77,15,Briton Rivière,Painting in the style of Briton Rivière,0
+78,15,Briton Rivière,A reproduction of art by Briton Rivière,0
+79,15,Briton Rivière,A famous artwork by Briton Rivière,0
+80,16,Brooke DiDonato,Image in the style of Brooke DiDonato,0
+81,16,Brooke DiDonato,Art inspired by Brooke DiDonato,0
+82,16,Brooke DiDonato,Painting in the style of Brooke DiDonato,0
+83,16,Brooke DiDonato,A reproduction of art by Brooke DiDonato,0
+84,16,Brooke DiDonato,A famous artwork by Brooke DiDonato,0
+85,17,Brooke Shaden,Image in the style of Brooke Shaden,0
+86,17,Brooke Shaden,Art inspired by Brooke Shaden,0
+87,17,Brooke Shaden,Painting in the style of Brooke Shaden,0
+88,17,Brooke Shaden,A reproduction of art by Brooke Shaden,0
+89,17,Brooke Shaden,A famous artwork by Brooke Shaden,0
+90,18,Brothers Grimm,Image in the style of Brothers Grimm,0
+91,18,Brothers Grimm,Art inspired by Brothers Grimm,0
+92,18,Brothers Grimm,Painting in the style of Brothers Grimm,0
+93,18,Brothers Grimm,A reproduction of art by Brothers Grimm,0
+94,18,Brothers Grimm,A famous artwork by Brothers Grimm,0
+95,19,Brothers Hildebrandt,Image in the style of Brothers Hildebrandt,0
+96,19,Brothers Hildebrandt,Art inspired by Brothers Hildebrandt,0
+97,19,Brothers Hildebrandt,Painting in the style of Brothers Hildebrandt,0
+98,19,Brothers Hildebrandt,A reproduction of art by Brothers Hildebrandt,0
+99,19,Brothers Hildebrandt,A famous artwork by Brothers Hildebrandt,0
+100,20,Bruce Munro,Image in the style of Bruce Munro,0
+101,20,Bruce Munro,Art inspired by Bruce Munro,0
+102,20,Bruce Munro,Painting in the style of Bruce Munro,0
+103,20,Bruce Munro,A reproduction of art by Bruce Munro,0
+104,20,Bruce Munro,A famous artwork by Bruce Munro,0
+105,21,Bruce Nauman,Image in the style of Bruce Nauman,0
+106,21,Bruce Nauman,Art inspired by Bruce Nauman,0
+107,21,Bruce Nauman,Painting in the style of Bruce Nauman,0
+108,21,Bruce Nauman,A reproduction of art by Bruce Nauman,0
+109,21,Bruce Nauman,A famous artwork by Bruce Nauman,0
+110,22,Bruce Pennington,Image in the style of Bruce Pennington,0
+111,22,Bruce Pennington,Art inspired by Bruce Pennington,0
+112,22,Bruce Pennington,Painting in the style of Bruce Pennington,0
+113,22,Bruce Pennington,A reproduction of art by Bruce Pennington,0
+114,22,Bruce Pennington,A famous artwork by Bruce Pennington,0
+115,23,Bruce Timm,Image in the style of Bruce Timm,0
+116,23,Bruce Timm,Art inspired by Bruce Timm,0
+117,23,Bruce Timm,Painting in the style of Bruce Timm,0
+118,23,Bruce Timm,A reproduction of art by Bruce Timm,0
+119,23,Bruce Timm,A famous artwork by Bruce Timm,0
+120,24,Bruno Catalano,Image in the style of Bruno Catalano,0
+121,24,Bruno Catalano,Art inspired by Bruno Catalano,0
+122,24,Bruno Catalano,Painting in the style of Bruno Catalano,0
+123,24,Bruno Catalano,A reproduction of art by Bruno Catalano,0
+124,24,Bruno Catalano,A famous artwork by Bruno Catalano,0
+125,25,Bruno Munari,Image in the style of Bruno Munari,0
+126,25,Bruno Munari,Art inspired by Bruno Munari,0
+127,25,Bruno Munari,Painting in the style of Bruno Munari,0
+128,25,Bruno Munari,A reproduction of art by Bruno Munari,0
+129,25,Bruno Munari,A famous artwork by Bruno Munari,0
+130,26,Bruno Walpoth,Image in the style of Bruno Walpoth,0
+131,26,Bruno Walpoth,Art inspired by Bruno Walpoth,0
+132,26,Bruno Walpoth,Painting in the style of Bruno Walpoth,0
+133,26,Bruno Walpoth,A reproduction of art by Bruno Walpoth,0
+134,26,Bruno Walpoth,A famous artwork by Bruno Walpoth,0
+135,27,Bryan Hitch,Image in the style of Bryan Hitch,0
+136,27,Bryan Hitch,Art inspired by Bryan Hitch,0
+137,27,Bryan Hitch,Painting in the style of Bryan Hitch,0
+138,27,Bryan Hitch,A reproduction of art by Bryan Hitch,0
+139,27,Bryan Hitch,A famous artwork by Bryan Hitch,0
+140,28,Butcher Billy,Image in the style of Butcher Billy,0
+141,28,Butcher Billy,Art inspired by Butcher Billy,0
+142,28,Butcher Billy,Painting in the style of Butcher Billy,0
+143,28,Butcher Billy,A reproduction of art by Butcher Billy,0
+144,28,Butcher Billy,A famous artwork by Butcher Billy,0
+145,29,C. R. W. Nevinson,Image in the style of C. R. W. Nevinson,0
+146,29,C. R. W. Nevinson,Art inspired by C. R. W. Nevinson,0
+147,29,C. R. W. Nevinson,Painting in the style of C. R. W. Nevinson,0
+148,29,C. R. W. Nevinson,A reproduction of art by C. R. W. Nevinson,0
+149,29,C. R. W. Nevinson,A famous artwork by C. R. W. Nevinson,0
+150,30,Cagnaccio Di San Pietro,Image in the style of Cagnaccio Di San Pietro,0
+151,30,Cagnaccio Di San Pietro,Art inspired by Cagnaccio Di San Pietro,0
+152,30,Cagnaccio Di San Pietro,Painting in the style of Cagnaccio Di San Pietro,0
+153,30,Cagnaccio Di San Pietro,A reproduction of art by Cagnaccio Di San Pietro,0
+154,30,Cagnaccio Di San Pietro,A famous artwork by Cagnaccio Di San Pietro,0
+155,31,Camille Corot,Image in the style of Camille Corot,0
+156,31,Camille Corot,Art inspired by Camille Corot,0
+157,31,Camille Corot,Painting in the style of Camille Corot,0
+158,31,Camille Corot,A reproduction of art by Camille Corot,0
+159,31,Camille Corot,A famous artwork by Camille Corot,0
+160,32,Camille Pissarro,Image in the style of Camille Pissarro,0
+161,32,Camille Pissarro,Art inspired by Camille Pissarro,0
+162,32,Camille Pissarro,Painting in the style of Camille Pissarro,0
+163,32,Camille Pissarro,A reproduction of art by Camille Pissarro,0
+164,32,Camille Pissarro,A famous artwork by Camille Pissarro,0
+165,33,Camille Walala,Image in the style of Camille Walala,0
+166,33,Camille Walala,Art inspired by Camille Walala,0
+167,33,Camille Walala,Painting in the style of Camille Walala,0
+168,33,Camille Walala,A reproduction of art by Camille Walala,0
+169,33,Camille Walala,A famous artwork by Camille Walala,0
+170,34,Canaletto,Image in the style of Canaletto,0
+171,34,Canaletto,Art inspired by Canaletto,0
+172,34,Canaletto,Painting in the style of Canaletto,0
+173,34,Canaletto,A reproduction of art by Canaletto,0
+174,34,Canaletto,A famous artwork by Canaletto,0
+175,35,Candido Portinari,Image in the style of Candido Portinari,0
+176,35,Candido Portinari,Art inspired by Candido Portinari,0
+177,35,Candido Portinari,Painting in the style of Candido Portinari,0
+178,35,Candido Portinari,A reproduction of art by Candido Portinari,0
+179,35,Candido Portinari,A famous artwork by Candido Portinari,0
+180,36,Carel Willink,Image in the style of Carel Willink,0
+181,36,Carel Willink,Art inspired by Carel Willink,0
+182,36,Carel Willink,Painting in the style of Carel Willink,0
+183,36,Carel Willink,A reproduction of art by Carel Willink,0
+184,36,Carel Willink,A famous artwork by Carel Willink,0
+185,37,Carl Barks,Image in the style of Carl Barks,0
+186,37,Carl Barks,Art inspired by Carl Barks,0
+187,37,Carl Barks,Painting in the style of Carl Barks,0
+188,37,Carl Barks,A reproduction of art by Carl Barks,0
+189,37,Carl Barks,A famous artwork by Carl Barks,0
+190,38,Carl Gustav Carus,Image in the style of Carl Gustav Carus,0
+191,38,Carl Gustav Carus,Art inspired by Carl Gustav Carus,0
+192,38,Carl Gustav Carus,Painting in the style of Carl Gustav Carus,0
+193,38,Carl Gustav Carus,A reproduction of art by Carl Gustav Carus,0
+194,38,Carl Gustav Carus,A famous artwork by Carl Gustav Carus,0
+195,39,Carl Holsoe,Image in the style of Carl Holsoe,0
+196,39,Carl Holsoe,Art inspired by Carl Holsoe,0
+197,39,Carl Holsoe,Painting in the style of Carl Holsoe,0
+198,39,Carl Holsoe,A reproduction of art by Carl Holsoe,0
+199,39,Carl Holsoe,A famous artwork by Carl Holsoe,0
+200,40,Carl Larsson,Image in the style of Carl Larsson,0
+201,40,Carl Larsson,Art inspired by Carl Larsson,0
+202,40,Carl Larsson,Painting in the style of Carl Larsson,0
+203,40,Carl Larsson,A reproduction of art by Carl Larsson,0
+204,40,Carl Larsson,A famous artwork by Carl Larsson,0
+205,41,Carl Spitzweg,Image in the style of Carl Spitzweg,0
+206,41,Carl Spitzweg,Art inspired by Carl Spitzweg,0
+207,41,Carl Spitzweg,Painting in the style of Carl Spitzweg,0
+208,41,Carl Spitzweg,A reproduction of art by Carl Spitzweg,0
+209,41,Carl Spitzweg,A famous artwork by Carl Spitzweg,0
+210,42,Carlo Crivelli,Image in the style of Carlo Crivelli,0
+211,42,Carlo Crivelli,Art inspired by Carlo Crivelli,0
+212,42,Carlo Crivelli,Painting in the style of Carlo Crivelli,0
+213,42,Carlo Crivelli,A reproduction of art by Carlo Crivelli,0
+214,42,Carlo Crivelli,A famous artwork by Carlo Crivelli,0
+215,43,Carlos Schwabe,Image in the style of Carlos Schwabe,0
+216,43,Carlos Schwabe,Art inspired by Carlos Schwabe,0
+217,43,Carlos Schwabe,Painting in the style of Carlos Schwabe,0
+218,43,Carlos Schwabe,A reproduction of art by Carlos Schwabe,0
+219,43,Carlos Schwabe,A famous artwork by Carlos Schwabe,0
+220,44,Carmen Saldana,Image in the style of Carmen Saldana,0
+221,44,Carmen Saldana,Art inspired by Carmen Saldana,0
+222,44,Carmen Saldana,Painting in the style of Carmen Saldana,0
+223,44,Carmen Saldana,A reproduction of art by Carmen Saldana,0
+224,44,Carmen Saldana,A famous artwork by Carmen Saldana,0
+225,45,Carne Griffiths,Image in the style of Carne Griffiths,0
+226,45,Carne Griffiths,Art inspired by Carne Griffiths,0
+227,45,Carne Griffiths,Painting in the style of Carne Griffiths,0
+228,45,Carne Griffiths,A reproduction of art by Carne Griffiths,0
+229,45,Carne Griffiths,A famous artwork by Carne Griffiths,0
+230,46,Casey Weldon,Image in the style of Casey Weldon,0
+231,46,Casey Weldon,Art inspired by Casey Weldon,0
+232,46,Casey Weldon,Painting in the style of Casey Weldon,0
+233,46,Casey Weldon,A reproduction of art by Casey Weldon,0
+234,46,Casey Weldon,A famous artwork by Casey Weldon,0
+235,47,Caspar David Friedrich,Image in the style of Caspar David Friedrich,0
+236,47,Caspar David Friedrich,Art inspired by Caspar David Friedrich,0
+237,47,Caspar David Friedrich,Painting in the style of Caspar David Friedrich,0
+238,47,Caspar David Friedrich,A reproduction of art by Caspar David Friedrich,0
+239,47,Caspar David Friedrich,A famous artwork by Caspar David Friedrich,0
+240,48,Cassius Marcellus Coolidge,Image in the style of Cassius Marcellus Coolidge,0
+241,48,Cassius Marcellus Coolidge,Art inspired by Cassius Marcellus Coolidge,0
+242,48,Cassius Marcellus Coolidge,Painting in the style of Cassius Marcellus Coolidge,0
+243,48,Cassius Marcellus Coolidge,A reproduction of art by Cassius Marcellus Coolidge,0
+244,48,Cassius Marcellus Coolidge,A famous artwork by Cassius Marcellus Coolidge,0
+245,49,Catrin Welz-Stein,Image in the style of Catrin Welz-Stein,0
+246,49,Catrin Welz-Stein,Art inspired by Catrin Welz-Stein,0
+247,49,Catrin Welz-Stein,Painting in the style of Catrin Welz-Stein,0
+248,49,Catrin Welz-Stein,A reproduction of art by Catrin Welz-Stein,0
+249,49,Catrin Welz-Stein,A famous artwork by Catrin Welz-Stein,0
+250,50,Cedric Peyravernay,Image in the style of Cedric Peyravernay,0
+251,50,Cedric Peyravernay,Art inspired by Cedric Peyravernay,0
+252,50,Cedric Peyravernay,Painting in the style of Cedric Peyravernay,0
+253,50,Cedric Peyravernay,A reproduction of art by Cedric Peyravernay,0
+254,50,Cedric Peyravernay,A famous artwork by Cedric Peyravernay,0
+255,51,Chad Knight,Image in the style of Chad Knight,0
+256,51,Chad Knight,Art inspired by Chad Knight,0
+257,51,Chad Knight,Painting in the style of Chad Knight,0
+258,51,Chad Knight,A reproduction of art by Chad Knight,0
+259,51,Chad Knight,A famous artwork by Chad Knight,0
+260,52,Chantal Joffe,Image in the style of Chantal Joffe,0
+261,52,Chantal Joffe,Art inspired by Chantal Joffe,0
+262,52,Chantal Joffe,Painting in the style of Chantal Joffe,0
+263,52,Chantal Joffe,A reproduction of art by Chantal Joffe,0
+264,52,Chantal Joffe,A famous artwork by Chantal Joffe,0
+265,53,Charles Addams,Image in the style of Charles Addams,0
+266,53,Charles Addams,Art inspired by Charles Addams,0
+267,53,Charles Addams,Painting in the style of Charles Addams,0
+268,53,Charles Addams,A reproduction of art by Charles Addams,0
+269,53,Charles Addams,A famous artwork by Charles Addams,0
+270,54,Charles Angrand,Image in the style of Charles Angrand,0
+271,54,Charles Angrand,Art inspired by Charles Angrand,0
+272,54,Charles Angrand,Painting in the style of Charles Angrand,0
+273,54,Charles Angrand,A reproduction of art by Charles Angrand,0
+274,54,Charles Angrand,A famous artwork by Charles Angrand,0
+275,55,Charles Blackman,Image in the style of Charles Blackman,0
+276,55,Charles Blackman,Art inspired by Charles Blackman,0
+277,55,Charles Blackman,Painting in the style of Charles Blackman,0
+278,55,Charles Blackman,A reproduction of art by Charles Blackman,0
+279,55,Charles Blackman,A famous artwork by Charles Blackman,0
+280,56,Charles Camoin,Image in the style of Charles Camoin,0
+281,56,Charles Camoin,Art inspired by Charles Camoin,0
+282,56,Charles Camoin,Painting in the style of Charles Camoin,0
+283,56,Charles Camoin,A reproduction of art by Charles Camoin,0
+284,56,Charles Camoin,A famous artwork by Charles Camoin,0
+285,57,Charles Dana Gibson,Image in the style of Charles Dana Gibson,0
+286,57,Charles Dana Gibson,Art inspired by Charles Dana Gibson,0
+287,57,Charles Dana Gibson,Painting in the style of Charles Dana Gibson,0
+288,57,Charles Dana Gibson,A reproduction of art by Charles Dana Gibson,0
+289,57,Charles Dana Gibson,A famous artwork by Charles Dana Gibson,0
+290,58,Charles E. Burchfield,Image in the style of Charles E. Burchfield,0
+291,58,Charles E. Burchfield,Art inspired by Charles E. Burchfield,0
+292,58,Charles E. Burchfield,Painting in the style of Charles E. Burchfield,0
+293,58,Charles E. Burchfield,A reproduction of art by Charles E. Burchfield,0
+294,58,Charles E. Burchfield,A famous artwork by Charles E. Burchfield,0
+295,59,Charles Gwathmey,Image in the style of Charles Gwathmey,0
+296,59,Charles Gwathmey,Art inspired by Charles Gwathmey,0
+297,59,Charles Gwathmey,Painting in the style of Charles Gwathmey,0
+298,59,Charles Gwathmey,A reproduction of art by Charles Gwathmey,0
+299,59,Charles Gwathmey,A famous artwork by Charles Gwathmey,0
+300,60,Charles Le Brun,Image in the style of Charles Le Brun,0
+301,60,Charles Le Brun,Art inspired by Charles Le Brun,0
+302,60,Charles Le Brun,Painting in the style of Charles Le Brun,0
+303,60,Charles Le Brun,A reproduction of art by Charles Le Brun,0
+304,60,Charles Le Brun,A famous artwork by Charles Le Brun,0
+305,61,Charles Liu,Image in the style of Charles Liu,0
+306,61,Charles Liu,Art inspired by Charles Liu,0
+307,61,Charles Liu,Painting in the style of Charles Liu,0
+308,61,Charles Liu,A reproduction of art by Charles Liu,0
+309,61,Charles Liu,A famous artwork by Charles Liu,0
+310,62,Charles Schridde,Image in the style of Charles Schridde,0
+311,62,Charles Schridde,Art inspired by Charles Schridde,0
+312,62,Charles Schridde,Painting in the style of Charles Schridde,0
+313,62,Charles Schridde,A reproduction of art by Charles Schridde,0
+314,62,Charles Schridde,A famous artwork by Charles Schridde,0
+315,63,Charles Schulz,Image in the style of Charles Schulz,0
+316,63,Charles Schulz,Art inspired by Charles Schulz,0
+317,63,Charles Schulz,Painting in the style of Charles Schulz,0
+318,63,Charles Schulz,A reproduction of art by Charles Schulz,0
+319,63,Charles Schulz,A famous artwork by Charles Schulz,0
+320,64,Charles Spencelayh,Image in the style of Charles Spencelayh,0
+321,64,Charles Spencelayh,Art inspired by Charles Spencelayh,0
+322,64,Charles Spencelayh,Painting in the style of Charles Spencelayh,0
+323,64,Charles Spencelayh,A reproduction of art by Charles Spencelayh,0
+324,64,Charles Spencelayh,A famous artwork by Charles Spencelayh,0
+325,65,Charles Vess,Image in the style of Charles Vess,0
+326,65,Charles Vess,Art inspired by Charles Vess,0
+327,65,Charles Vess,Painting in the style of Charles Vess,0
+328,65,Charles Vess,A reproduction of art by Charles Vess,0
+329,65,Charles Vess,A famous artwork by Charles Vess,0
+330,66,Charles-Francois Daubigny,Image in the style of Charles-Francois Daubigny,0
+331,66,Charles-Francois Daubigny,Art inspired by Charles-Francois Daubigny,0
+332,66,Charles-Francois Daubigny,Painting in the style of Charles-Francois Daubigny,0
+333,66,Charles-Francois Daubigny,A reproduction of art by Charles-Francois Daubigny,0
+334,66,Charles-Francois Daubigny,A famous artwork by Charles-Francois Daubigny,0
+335,67,Charlie Bowater,Image in the style of Charlie Bowater,0
+336,67,Charlie Bowater,Art inspired by Charlie Bowater,0
+337,67,Charlie Bowater,Painting in the style of Charlie Bowater,0
+338,67,Charlie Bowater,A reproduction of art by Charlie Bowater,0
+339,67,Charlie Bowater,A famous artwork by Charlie Bowater,0
+340,68,Charline von Heyl,Image in the style of Charline von Heyl,0
+341,68,Charline von Heyl,Art inspired by Charline von Heyl,0
+342,68,Charline von Heyl,Painting in the style of Charline von Heyl,0
+343,68,Charline von Heyl,A reproduction of art by Charline von Heyl,0
+344,68,Charline von Heyl,A famous artwork by Charline von Heyl,0
+345,69,Chaïm Soutine,Image in the style of Chaïm Soutine,0
+346,69,Chaïm Soutine,Art inspired by Chaïm Soutine,0
+347,69,Chaïm Soutine,Painting in the style of Chaïm Soutine,0
+348,69,Chaïm Soutine,A reproduction of art by Chaïm Soutine,0
+349,69,Chaïm Soutine,A famous artwork by Chaïm Soutine,0
+350,70,Chen Zhen,Image in the style of Chen Zhen,0
+351,70,Chen Zhen,Art inspired by Chen Zhen,0
+352,70,Chen Zhen,Painting in the style of Chen Zhen,0
+353,70,Chen Zhen,A reproduction of art by Chen Zhen,0
+354,70,Chen Zhen,A famous artwork by Chen Zhen,0
+355,71,Chesley Bonestell,Image in the style of Chesley Bonestell,0
+356,71,Chesley Bonestell,Art inspired by Chesley Bonestell,0
+357,71,Chesley Bonestell,Painting in the style of Chesley Bonestell,0
+358,71,Chesley Bonestell,A reproduction of art by Chesley Bonestell,0
+359,71,Chesley Bonestell,A famous artwork by Chesley Bonestell,0
+360,72,Chiharu Shiota,Image in the style of Chiharu Shiota,0
+361,72,Chiharu Shiota,Art inspired by Chiharu Shiota,0
+362,72,Chiharu Shiota,Painting in the style of Chiharu Shiota,0
+363,72,Chiharu Shiota,A reproduction of art by Chiharu Shiota,0
+364,72,Chiharu Shiota,A famous artwork by Chiharu Shiota,0
+365,73,Ching Yeh,Image in the style of Ching Yeh,0
+366,73,Ching Yeh,Art inspired by Ching Yeh,0
+367,73,Ching Yeh,Painting in the style of Ching Yeh,0
+368,73,Ching Yeh,A reproduction of art by Ching Yeh,0
+369,73,Ching Yeh,A famous artwork by Ching Yeh,0
+370,74,Chip Zdarsky,Image in the style of Chip Zdarsky,0
+371,74,Chip Zdarsky,Art inspired by Chip Zdarsky,0
+372,74,Chip Zdarsky,Painting in the style of Chip Zdarsky,0
+373,74,Chip Zdarsky,A reproduction of art by Chip Zdarsky,0
+374,74,Chip Zdarsky,A famous artwork by Chip Zdarsky,0
+375,75,Chris Claremont,Image in the style of Chris Claremont,0
+376,75,Chris Claremont,Art inspired by Chris Claremont,0
+377,75,Chris Claremont,Painting in the style of Chris Claremont,0
+378,75,Chris Claremont,A reproduction of art by Chris Claremont,0
+379,75,Chris Claremont,A famous artwork by Chris Claremont,0
+380,76,Chris Cunningham,Image in the style of Chris Cunningham,0
+381,76,Chris Cunningham,Art inspired by Chris Cunningham,0
+382,76,Chris Cunningham,Painting in the style of Chris Cunningham,0
+383,76,Chris Cunningham,A reproduction of art by Chris Cunningham,0
+384,76,Chris Cunningham,A famous artwork by Chris Cunningham,0
+385,77,Chris Foss,Image in the style of Chris Foss,0
+386,77,Chris Foss,Art inspired by Chris Foss,0
+387,77,Chris Foss,Painting in the style of Chris Foss,0
+388,77,Chris Foss,A reproduction of art by Chris Foss,0
+389,77,Chris Foss,A famous artwork by Chris Foss,0
+390,78,Chris Leib,Image in the style of Chris Leib,0
+391,78,Chris Leib,Art inspired by Chris Leib,0
+392,78,Chris Leib,Painting in the style of Chris Leib,0
+393,78,Chris Leib,A reproduction of art by Chris Leib,0
+394,78,Chris Leib,A famous artwork by Chris Leib,0
+395,79,Chris Moore,Image in the style of Chris Moore,0
+396,79,Chris Moore,Art inspired by Chris Moore,0
+397,79,Chris Moore,Painting in the style of Chris Moore,0
+398,79,Chris Moore,A reproduction of art by Chris Moore,0
+399,79,Chris Moore,A famous artwork by Chris Moore,0
+400,80,Chris Ofili,Image in the style of Chris Ofili,0
+401,80,Chris Ofili,Art inspired by Chris Ofili,0
+402,80,Chris Ofili,Painting in the style of Chris Ofili,0
+403,80,Chris Ofili,A reproduction of art by Chris Ofili,0
+404,80,Chris Ofili,A famous artwork by Chris Ofili,0
+405,81,Chris Saunders,Image in the style of Chris Saunders,0
+406,81,Chris Saunders,Art inspired by Chris Saunders,0
+407,81,Chris Saunders,Painting in the style of Chris Saunders,0
+408,81,Chris Saunders,A reproduction of art by Chris Saunders,0
+409,81,Chris Saunders,A famous artwork by Chris Saunders,0
+410,82,Chris Turnham,Image in the style of Chris Turnham,0
+411,82,Chris Turnham,Art inspired by Chris Turnham,0
+412,82,Chris Turnham,Painting in the style of Chris Turnham,0
+413,82,Chris Turnham,A reproduction of art by Chris Turnham,0
+414,82,Chris Turnham,A famous artwork by Chris Turnham,0
+415,83,Chris Uminga,Image in the style of Chris Uminga,0
+416,83,Chris Uminga,Art inspired by Chris Uminga,0
+417,83,Chris Uminga,Painting in the style of Chris Uminga,0
+418,83,Chris Uminga,A reproduction of art by Chris Uminga,0
+419,83,Chris Uminga,A famous artwork by Chris Uminga,0
+420,84,Chris Van Allsburg,Image in the style of Chris Van Allsburg,0
+421,84,Chris Van Allsburg,Art inspired by Chris Van Allsburg,0
+422,84,Chris Van Allsburg,Painting in the style of Chris Van Allsburg,0
+423,84,Chris Van Allsburg,A reproduction of art by Chris Van Allsburg,0
+424,84,Chris Van Allsburg,A famous artwork by Chris Van Allsburg,0
+425,85,Chris Ware,Image in the style of Chris Ware,0
+426,85,Chris Ware,Art inspired by Chris Ware,0
+427,85,Chris Ware,Painting in the style of Chris Ware,0
+428,85,Chris Ware,A reproduction of art by Chris Ware,0
+429,85,Chris Ware,A famous artwork by Chris Ware,0
+430,86,Christian Dimitrov,Image in the style of Christian Dimitrov,0
+431,86,Christian Dimitrov,Art inspired by Christian Dimitrov,0
+432,86,Christian Dimitrov,Painting in the style of Christian Dimitrov,0
+433,86,Christian Dimitrov,A reproduction of art by Christian Dimitrov,0
+434,86,Christian Dimitrov,A famous artwork by Christian Dimitrov,0
+435,87,Christian Grajewski,Image in the style of Christian Grajewski,0
+436,87,Christian Grajewski,Art inspired by Christian Grajewski,0
+437,87,Christian Grajewski,Painting in the style of Christian Grajewski,0
+438,87,Christian Grajewski,A reproduction of art by Christian Grajewski,0
+439,87,Christian Grajewski,A famous artwork by Christian Grajewski,0
+440,88,Christophe Vacher,Image in the style of Christophe Vacher,0
+441,88,Christophe Vacher,Art inspired by Christophe Vacher,0
+442,88,Christophe Vacher,Painting in the style of Christophe Vacher,0
+443,88,Christophe Vacher,A reproduction of art by Christophe Vacher,0
+444,88,Christophe Vacher,A famous artwork by Christophe Vacher,0
+445,89,Christopher Balaskas,Image in the style of Christopher Balaskas,0
+446,89,Christopher Balaskas,Art inspired by Christopher Balaskas,0
+447,89,Christopher Balaskas,Painting in the style of Christopher Balaskas,0
+448,89,Christopher Balaskas,A reproduction of art by Christopher Balaskas,0
+449,89,Christopher Balaskas,A famous artwork by Christopher Balaskas,0
+450,90,Christopher Jin Baron,Image in the style of Christopher Jin Baron,0
+451,90,Christopher Jin Baron,Art inspired by Christopher Jin Baron,0
+452,90,Christopher Jin Baron,Painting in the style of Christopher Jin Baron,0
+453,90,Christopher Jin Baron,A reproduction of art by Christopher Jin Baron,0
+454,90,Christopher Jin Baron,A famous artwork by Christopher Jin Baron,0
+455,91,Chuck Close,Image in the style of Chuck Close,0
+456,91,Chuck Close,Art inspired by Chuck Close,0
+457,91,Chuck Close,Painting in the style of Chuck Close,0
+458,91,Chuck Close,A reproduction of art by Chuck Close,0
+459,91,Chuck Close,A famous artwork by Chuck Close,0
+460,92,Cicely Mary Barker,Image in the style of Cicely Mary Barker,0
+461,92,Cicely Mary Barker,Art inspired by Cicely Mary Barker,0
+462,92,Cicely Mary Barker,Painting in the style of Cicely Mary Barker,0
+463,92,Cicely Mary Barker,A reproduction of art by Cicely Mary Barker,0
+464,92,Cicely Mary Barker,A famous artwork by Cicely Mary Barker,0
+465,93,Cindy Sherman,Image in the style of Cindy Sherman,0
+466,93,Cindy Sherman,Art inspired by Cindy Sherman,0
+467,93,Cindy Sherman,Painting in the style of Cindy Sherman,0
+468,93,Cindy Sherman,A reproduction of art by Cindy Sherman,0
+469,93,Cindy Sherman,A famous artwork by Cindy Sherman,0
+470,94,Clara Miller Burd,Image in the style of Clara Miller Burd,0
+471,94,Clara Miller Burd,Art inspired by Clara Miller Burd,0
+472,94,Clara Miller Burd,Painting in the style of Clara Miller Burd,0
+473,94,Clara Miller Burd,A reproduction of art by Clara Miller Burd,0
+474,94,Clara Miller Burd,A famous artwork by Clara Miller Burd,0
+475,95,Clara Peeters,Image in the style of Clara Peeters,0
+476,95,Clara Peeters,Art inspired by Clara Peeters,0
+477,95,Clara Peeters,Painting in the style of Clara Peeters,0
+478,95,Clara Peeters,A reproduction of art by Clara Peeters,0
+479,95,Clara Peeters,A famous artwork by Clara Peeters,0
+480,96,Clarence Holbrook Carter,Image in the style of Clarence Holbrook Carter,0
+481,96,Clarence Holbrook Carter,Art inspired by Clarence Holbrook Carter,0
+482,96,Clarence Holbrook Carter,Painting in the style of Clarence Holbrook Carter,0
+483,96,Clarence Holbrook Carter,A reproduction of art by Clarence Holbrook Carter,0
+484,96,Clarence Holbrook Carter,A famous artwork by Clarence Holbrook Carter,0
+485,97,Claude Cahun,Image in the style of Claude Cahun,0
+486,97,Claude Cahun,Art inspired by Claude Cahun,0
+487,97,Claude Cahun,Painting in the style of Claude Cahun,0
+488,97,Claude Cahun,A reproduction of art by Claude Cahun,0
+489,97,Claude Cahun,A famous artwork by Claude Cahun,0
+490,98,Claude Monet,Image in the style of Claude Monet,0
+491,98,Claude Monet,Art inspired by Claude Monet,0
+492,98,Claude Monet,Painting in the style of Claude Monet,0
+493,98,Claude Monet,A reproduction of art by Claude Monet,0
+494,98,Claude Monet,A famous artwork by Claude Monet,0
+495,99,Clemens Ascher,Image in the style of Clemens Ascher,0
+496,99,Clemens Ascher,Art inspired by Clemens Ascher,0
+497,99,Clemens Ascher,Painting in the style of Clemens Ascher,0
+498,99,Clemens Ascher,A reproduction of art by Clemens Ascher,0
+499,99,Clemens Ascher,A famous artwork by Clemens Ascher,0

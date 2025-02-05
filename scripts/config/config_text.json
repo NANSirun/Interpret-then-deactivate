@@ -1,0 +1,21 @@
+{
+    "sae_configs": [
+        {
+            "d_model": 768,
+            "n_dirs": 524288,
+            "k": 64
+        }
+    ],
+    "bs": 50,
+    "log_interval": 500,
+    "save_interval": 2000,
+    "output_or_diff": "output",
+    "epochs": 20,
+    "save_path_base": "models",
+    "block_name": [
+        "text_model.encoder.layers.8"
+    ],
+    "datasets": [
+        "celebrity","style","coco"
+    ]
+}

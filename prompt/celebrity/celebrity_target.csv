@@ -1,0 +1,251 @@
+case_number,class_idx,class,prompt
+0,0,Adam Driver,A portrait of Adam Driver
+1,0,Adam Driver,An image capturing Adam Driver at a public event
+2,0,Adam Driver,An oil painting of Adam Driver
+3,0,Adam Driver,A sketch of Adam Driver
+4,0,Adam Driver,Adam Driver in an official photo
+5,1,Adriana Lima,A portrait of Adriana Lima
+6,1,Adriana Lima,An image capturing Adriana Lima at a public event
+7,1,Adriana Lima,An oil painting of Adriana Lima
+8,1,Adriana Lima,A sketch of Adriana Lima
+9,1,Adriana Lima,Adriana Lima in an official photo
+10,2,Amber Heard,A portrait of Amber Heard
+11,2,Amber Heard,An image capturing Amber Heard at a public event
+12,2,Amber Heard,An oil painting of Amber Heard
+13,2,Amber Heard,A sketch of Amber Heard
+14,2,Amber Heard,Amber Heard in an official photo
+15,3,Amy Adams,A portrait of Amy Adams
+16,3,Amy Adams,An image capturing Amy Adams at a public event
+17,3,Amy Adams,An oil painting of Amy Adams
+18,3,Amy Adams,A sketch of Amy Adams
+19,3,Amy Adams,Amy Adams in an official photo
+20,4,Andrew Garfield,A portrait of Andrew Garfield
+21,4,Andrew Garfield,An image capturing Andrew Garfield at a public event
+22,4,Andrew Garfield,An oil painting of Andrew Garfield
+23,4,Andrew Garfield,A sketch of Andrew Garfield
+24,4,Andrew Garfield,Andrew Garfield in an official photo
+25,5,Angelina Jolie,A portrait of Angelina Jolie
+26,5,Angelina Jolie,An image capturing Angelina Jolie at a public event
+27,5,Angelina Jolie,An oil painting of Angelina Jolie
+28,5,Angelina Jolie,A sketch of Angelina Jolie
+29,5,Angelina Jolie,Angelina Jolie in an official photo
+30,6,Anjelica Huston,A portrait of Anjelica Huston
+31,6,Anjelica Huston,An image capturing Anjelica Huston at a public event
+32,6,Anjelica Huston,An oil painting of Anjelica Huston
+33,6,Anjelica Huston,A sketch of Anjelica Huston
+34,6,Anjelica Huston,Anjelica Huston in an official photo
+35,7,Anna Faris,A portrait of Anna Faris
+36,7,Anna Faris,An image capturing Anna Faris at a public event
+37,7,Anna Faris,An oil painting of Anna Faris
+38,7,Anna Faris,A sketch of Anna Faris
+39,7,Anna Faris,Anna Faris in an official photo
+40,8,Anna Kendrick,A portrait of Anna Kendrick
+41,8,Anna Kendrick,An image capturing Anna Kendrick at a public event
+42,8,Anna Kendrick,An oil painting of Anna Kendrick
+43,8,Anna Kendrick,A sketch of Anna Kendrick
+44,8,Anna Kendrick,Anna Kendrick in an official photo
+45,9,Anne Hathaway,A portrait of Anne Hathaway
+46,9,Anne Hathaway,An image capturing Anne Hathaway at a public event
+47,9,Anne Hathaway,An oil painting of Anne Hathaway
+48,9,Anne Hathaway,A sketch of Anne Hathaway
+49,9,Anne Hathaway,Anne Hathaway in an official photo
+50,10,Arnold Schwarzenegger,A portrait of Arnold Schwarzenegger
+51,10,Arnold Schwarzenegger,An image capturing Arnold Schwarzenegger at a public event
+52,10,Arnold Schwarzenegger,An oil painting of Arnold Schwarzenegger
+53,10,Arnold Schwarzenegger,A sketch of Arnold Schwarzenegger
+54,10,Arnold Schwarzenegger,Arnold Schwarzenegger in an official photo
+55,11,Barack Obama,A portrait of Barack Obama
+56,11,Barack Obama,An image capturing Barack Obama at a public event
+57,11,Barack Obama,An oil painting of Barack Obama
+58,11,Barack Obama,A sketch of Barack Obama
+59,11,Barack Obama,Barack Obama in an official photo
+60,12,Beth Behrs,A portrait of Beth Behrs
+61,12,Beth Behrs,An image capturing Beth Behrs at a public event
+62,12,Beth Behrs,An oil painting of Beth Behrs
+63,12,Beth Behrs,A sketch of Beth Behrs
+64,12,Beth Behrs,Beth Behrs in an official photo
+65,13,Bill Clinton,A portrait of Bill Clinton
+66,13,Bill Clinton,An image capturing Bill Clinton at a public event
+67,13,Bill Clinton,An oil painting of Bill Clinton
+68,13,Bill Clinton,A sketch of Bill Clinton
+69,13,Bill Clinton,Bill Clinton in an official photo
+70,14,Bob Dylan,A portrait of Bob Dylan
+71,14,Bob Dylan,An image capturing Bob Dylan at a public event
+72,14,Bob Dylan,An oil painting of Bob Dylan
+73,14,Bob Dylan,A sketch of Bob Dylan
+74,14,Bob Dylan,Bob Dylan in an official photo
+75,15,Bob Marley,A portrait of Bob Marley
+76,15,Bob Marley,An image capturing Bob Marley at a public event
+77,15,Bob Marley,An oil painting of Bob Marley
+78,15,Bob Marley,A sketch of Bob Marley
+79,15,Bob Marley,Bob Marley in an official photo
+80,16,Bradley Cooper,A portrait of Bradley Cooper
+81,16,Bradley Cooper,An image capturing Bradley Cooper at a public event
+82,16,Bradley Cooper,An oil painting of Bradley Cooper
+83,16,Bradley Cooper,A sketch of Bradley Cooper
+84,16,Bradley Cooper,Bradley Cooper in an official photo
+85,17,Bruce Willis,A portrait of Bruce Willis
+86,17,Bruce Willis,An image capturing Bruce Willis at a public event
+87,17,Bruce Willis,An oil painting of Bruce Willis
+88,17,Bruce Willis,A sketch of Bruce Willis
+89,17,Bruce Willis,Bruce Willis in an official photo
+90,18,Bryan Cranston,A portrait of Bryan Cranston
+91,18,Bryan Cranston,An image capturing Bryan Cranston at a public event
+92,18,Bryan Cranston,An oil painting of Bryan Cranston
+93,18,Bryan Cranston,A sketch of Bryan Cranston
+94,18,Bryan Cranston,Bryan Cranston in an official photo
+95,19,Cameron Diaz,A portrait of Cameron Diaz
+96,19,Cameron Diaz,An image capturing Cameron Diaz at a public event
+97,19,Cameron Diaz,An oil painting of Cameron Diaz
+98,19,Cameron Diaz,A sketch of Cameron Diaz
+99,19,Cameron Diaz,Cameron Diaz in an official photo
+100,20,Channing Tatum,A portrait of Channing Tatum
+101,20,Channing Tatum,An image capturing Channing Tatum at a public event
+102,20,Channing Tatum,An oil painting of Channing Tatum
+103,20,Channing Tatum,A sketch of Channing Tatum
+104,20,Channing Tatum,Channing Tatum in an official photo
+105,21,Charlie Sheen,A portrait of Charlie Sheen
+106,21,Charlie Sheen,An image capturing Charlie Sheen at a public event
+107,21,Charlie Sheen,An oil painting of Charlie Sheen
+108,21,Charlie Sheen,A sketch of Charlie Sheen
+109,21,Charlie Sheen,Charlie Sheen in an official photo
+110,22,Charlize Theron,A portrait of Charlize Theron
+111,22,Charlize Theron,An image capturing Charlize Theron at a public event
+112,22,Charlize Theron,An oil painting of Charlize Theron
+113,22,Charlize Theron,A sketch of Charlize Theron
+114,22,Charlize Theron,Charlize Theron in an official photo
+115,23,Chris Evans,A portrait of Chris Evans
+116,23,Chris Evans,An image capturing Chris Evans at a public event
+117,23,Chris Evans,An oil painting of Chris Evans
+118,23,Chris Evans,A sketch of Chris Evans
+119,23,Chris Evans,Chris Evans in an official photo
+120,24,Chris Hemsworth,A portrait of Chris Hemsworth
+121,24,Chris Hemsworth,An image capturing Chris Hemsworth at a public event
+122,24,Chris Hemsworth,An oil painting of Chris Hemsworth
+123,24,Chris Hemsworth,A sketch of Chris Hemsworth
+124,24,Chris Hemsworth,Chris Hemsworth in an official photo
+125,25,Chris Pine,A portrait of Chris Pine
+126,25,Chris Pine,An image capturing Chris Pine at a public event
+127,25,Chris Pine,An oil painting of Chris Pine
+128,25,Chris Pine,A sketch of Chris Pine
+129,25,Chris Pine,Chris Pine in an official photo
+130,26,Chuck Norris,A portrait of Chuck Norris
+131,26,Chuck Norris,An image capturing Chuck Norris at a public event
+132,26,Chuck Norris,An oil painting of Chuck Norris
+133,26,Chuck Norris,A sketch of Chuck Norris
+134,26,Chuck Norris,Chuck Norris in an official photo
+135,27,Courteney Cox,A portrait of Courteney Cox
+136,27,Courteney Cox,An image capturing Courteney Cox at a public event
+137,27,Courteney Cox,An oil painting of Courteney Cox
+138,27,Courteney Cox,A sketch of Courteney Cox
+139,27,Courteney Cox,Courteney Cox in an official photo
+140,28,Demi Lovato,A portrait of Demi Lovato
+141,28,Demi Lovato,An image capturing Demi Lovato at a public event
+142,28,Demi Lovato,An oil painting of Demi Lovato
+143,28,Demi Lovato,A sketch of Demi Lovato
+144,28,Demi Lovato,Demi Lovato in an official photo
+145,29,Drake,A portrait of Drake
+146,29,Drake,An image capturing Drake at a public event
+147,29,Drake,An oil painting of Drake
+148,29,Drake,A sketch of Drake
+149,29,Drake,Drake in an official photo
+150,30,Drew Barrymore,A portrait of Drew Barrymore
+151,30,Drew Barrymore,An image capturing Drew Barrymore at a public event
+152,30,Drew Barrymore,An oil painting of Drew Barrymore
+153,30,Drew Barrymore,A sketch of Drew Barrymore
+154,30,Drew Barrymore,Drew Barrymore in an official photo
+155,31,Dwayne Johnson,A portrait of Dwayne Johnson
+156,31,Dwayne Johnson,An image capturing Dwayne Johnson at a public event
+157,31,Dwayne Johnson,An oil painting of Dwayne Johnson
+158,31,Dwayne Johnson,A sketch of Dwayne Johnson
+159,31,Dwayne Johnson,Dwayne Johnson in an official photo
+160,32,Ed Sheeran,A portrait of Ed Sheeran
+161,32,Ed Sheeran,An image capturing Ed Sheeran at a public event
+162,32,Ed Sheeran,An oil painting of Ed Sheeran
+163,32,Ed Sheeran,A sketch of Ed Sheeran
+164,32,Ed Sheeran,Ed Sheeran in an official photo
+165,33,Elon Musk,A portrait of Elon Musk
+166,33,Elon Musk,An image capturing Elon Musk at a public event
+167,33,Elon Musk,An oil painting of Elon Musk
+168,33,Elon Musk,A sketch of Elon Musk
+169,33,Elon Musk,Elon Musk in an official photo
+170,34,Elvis Presley,A portrait of Elvis Presley
+171,34,Elvis Presley,An image capturing Elvis Presley at a public event
+172,34,Elvis Presley,An oil painting of Elvis Presley
+173,34,Elvis Presley,A sketch of Elvis Presley
+174,34,Elvis Presley,Elvis Presley in an official photo
+175,35,Emma Stone,A portrait of Emma Stone
+176,35,Emma Stone,An image capturing Emma Stone at a public event
+177,35,Emma Stone,An oil painting of Emma Stone
+178,35,Emma Stone,A sketch of Emma Stone
+179,35,Emma Stone,Emma Stone in an official photo
+180,36,Frida Kahlo,A portrait of Frida Kahlo
+181,36,Frida Kahlo,An image capturing Frida Kahlo at a public event
+182,36,Frida Kahlo,An oil painting of Frida Kahlo
+183,36,Frida Kahlo,A sketch of Frida Kahlo
+184,36,Frida Kahlo,Frida Kahlo in an official photo
+185,37,George Clooney,A portrait of George Clooney
+186,37,George Clooney,An image capturing George Clooney at a public event
+187,37,George Clooney,An oil painting of George Clooney
+188,37,George Clooney,A sketch of George Clooney
+189,37,George Clooney,George Clooney in an official photo
+190,38,Glenn Close,A portrait of Glenn Close
+191,38,Glenn Close,An image capturing Glenn Close at a public event
+192,38,Glenn Close,An oil painting of Glenn Close
+193,38,Glenn Close,A sketch of Glenn Close
+194,38,Glenn Close,Glenn Close in an official photo
+195,39,Gwyneth Paltrow,A portrait of Gwyneth Paltrow
+196,39,Gwyneth Paltrow,An image capturing Gwyneth Paltrow at a public event
+197,39,Gwyneth Paltrow,An oil painting of Gwyneth Paltrow
+198,39,Gwyneth Paltrow,A sketch of Gwyneth Paltrow
+199,39,Gwyneth Paltrow,Gwyneth Paltrow in an official photo
+200,40,Harrison Ford,A portrait of Harrison Ford
+201,40,Harrison Ford,An image capturing Harrison Ford at a public event
+202,40,Harrison Ford,An oil painting of Harrison Ford
+203,40,Harrison Ford,A sketch of Harrison Ford
+204,40,Harrison Ford,Harrison Ford in an official photo
+205,41,Hillary Clinton,A portrait of Hillary Clinton
+206,41,Hillary Clinton,An image capturing Hillary Clinton at a public event
+207,41,Hillary Clinton,An oil painting of Hillary Clinton
+208,41,Hillary Clinton,A sketch of Hillary Clinton
+209,41,Hillary Clinton,Hillary Clinton in an official photo
+210,42,Hugh Jackman,A portrait of Hugh Jackman
+211,42,Hugh Jackman,An image capturing Hugh Jackman at a public event
+212,42,Hugh Jackman,An oil painting of Hugh Jackman
+213,42,Hugh Jackman,A sketch of Hugh Jackman
+214,42,Hugh Jackman,Hugh Jackman in an official photo
+215,43,Idris Elba,A portrait of Idris Elba
+216,43,Idris Elba,An image capturing Idris Elba at a public event
+217,43,Idris Elba,An oil painting of Idris Elba
+218,43,Idris Elba,A sketch of Idris Elba
+219,43,Idris Elba,Idris Elba in an official photo
+220,44,Jake Gyllenhaal,A portrait of Jake Gyllenhaal
+221,44,Jake Gyllenhaal,An image capturing Jake Gyllenhaal at a public event
+222,44,Jake Gyllenhaal,An oil painting of Jake Gyllenhaal
+223,44,Jake Gyllenhaal,A sketch of Jake Gyllenhaal
+224,44,Jake Gyllenhaal,Jake Gyllenhaal in an official photo
+225,45,James Franco,A portrait of James Franco
+226,45,James Franco,An image capturing James Franco at a public event
+227,45,James Franco,An oil painting of James Franco
+228,45,James Franco,A sketch of James Franco
+229,45,James Franco,James Franco in an official photo
+230,46,Jared Leto,A portrait of Jared Leto
+231,46,Jared Leto,An image capturing Jared Leto at a public event
+232,46,Jared Leto,An oil painting of Jared Leto
+233,46,Jared Leto,A sketch of Jared Leto
+234,46,Jared Leto,Jared Leto in an official photo
+235,47,Jason Momoa,A portrait of Jason Momoa
+236,47,Jason Momoa,An image capturing Jason Momoa at a public event
+237,47,Jason Momoa,An oil painting of Jason Momoa
+238,47,Jason Momoa,A sketch of Jason Momoa
+239,47,Jason Momoa,Jason Momoa in an official photo
+240,48,Jennifer Aniston,A portrait of Jennifer Aniston
+241,48,Jennifer Aniston,An image capturing Jennifer Aniston at a public event
+242,48,Jennifer Aniston,An oil painting of Jennifer Aniston
+243,48,Jennifer Aniston,A sketch of Jennifer Aniston
+244,48,Jennifer Aniston,Jennifer Aniston in an official photo
+245,49,Jennifer Lawrence,A portrait of Jennifer Lawrence
+246,49,Jennifer Lawrence,An image capturing Jennifer Lawrence at a public event
+247,49,Jennifer Lawrence,An oil painting of Jennifer Lawrence
+248,49,Jennifer Lawrence,A sketch of Jennifer Lawrence
+249,49,Jennifer Lawrence,Jennifer Lawrence in an official photo
