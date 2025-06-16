@@ -80,8 +80,6 @@ from datasets import load_dataset, concatenate_datasets
 from torch.utils.data import DataLoader
 import pickle
 
-os.environ["WANDB_API_KEY"] = 'd4f35ec79b5ab6c9312a43d806ebfd4b3772ddce'
-
 if is_wandb_available():
     import wandb
 
@@ -618,8 +616,6 @@ def main():
     noise_scheduler = DDPMScheduler.from_pretrained(args.pretrained_model_name_or_path, subfolder="scheduler")
     text_encoder = CLIPTextModel.from_pretrained(args.pretrained_model_name_or_path, subfolder="text_encoder", revision=args.revision)
     text_encoder_hooked = HookedTextEncoder.from_pretrained(args.pretrained_model_name_or_path, subfolder="text_encoder")
-
-    
     vae = AutoencoderKL.from_pretrained(args.pretrained_model_name_or_path, subfolder="vae", revision=args.revision)
     
     # change to a fintuned unet
